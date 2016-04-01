@@ -2,7 +2,7 @@ $(document).ready(function(){
 
     var lastId,
         topMenu = $("header"),
-        topMenuHeight = 71,
+        topMenuHeight = 69,
         menuItems = topMenu.find("a"),
         scrollItems = menuItems.map(function(){
             var item = $($(this).attr("href"));
@@ -17,9 +17,9 @@ $(document).ready(function(){
         $('header').toggleClass('tiny', $(document).scrollTop() > 50);
     });
 
-    /*===================
-     //SCROLL AND TARGET
-     ===================*/
+/*===================
+ //SCROLL AND TARGET
+ ===================*/
 
     $('.menu a[href*=#]').bind('touchstart click', function(e) {
         var target = $(this).attr("href");
@@ -56,7 +56,6 @@ $(document).ready(function(){
                 .end().filter("[href='#"+id+"']").parent().addClass("active");
         }
     });
-
 
 /*===================
 //CAROUSEL

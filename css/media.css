@@ -73,6 +73,10 @@
     }
     nav.navbar{
         width: 100%;
+        background-color: #1f3a52;
+    }
+    .navbar-header{
+        padding: 0 15px;
     }
     ul.menu li {
         margin-bottom: 20px;
