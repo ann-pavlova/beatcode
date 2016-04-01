@@ -33,6 +33,11 @@ body{
     color: #fff;
 }
 
+a, a:focus, a:hover{
+    outline:none;
+    text-decoration: none;
+}
+
 h2{
     font: bold 45px/47px 'Candara';
 }
@@ -160,7 +165,6 @@ ul.menu {
 ul.menu a {
     color: #bbb;
     float: left;
-    text-decoration: none;
     text-transform: uppercase;
     font: 17px/19px 'ALSSchlangesansLight';
     padding: 0 0 35px 0;
