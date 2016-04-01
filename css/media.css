@@ -1,0 +1,123 @@
+@media (max-width: 1240px) {
+    .header.tiny {
+        min-height: 69px;
+    }
+    .header.tiny .menu {
+        margin-top: 10px;
+    }
+    .header.tiny .menu a {
+        padding-bottom: 19px;
+    }
+    ul.menu{margin-top: 19px;}
+    ul.menu li a{
+        font-size: 13px;
+    }
+    ul.menu li:first-child{margin-left: 0;}
+    ul.menu li a {
+        padding-bottom: 36px;
+        float: none;
+
+    }
+    .navbar-toggle .icon-bar{
+        background-color: #fff;
+    }
+    .service.branding{margin-bottom: 30px;}
+    .service-box{
+        width: 100%;
+        padding-left: 20px;
+        text-align: center;
+    }
+    .service-icon{
+        float: none!important;
+        margin: 0 auto;
+    }
+    .web-design .service-icon {
+        background-position: -225px 0;
+    }
+    .graphic-design .service-icon {
+        background-position: -206px -179px;
+    }
+    .branding .service-icon {
+        background-position: -208px -347px;
+    }
+    .development .service-icon {
+        background-position: -206px -512px;
+    }
+}
+
+@media (max-width: 1200px) {
+    ul.menu li {
+        padding: 0 7px;
+    }
+    .first-row{margin-bottom: 30px;}
+    .cover p {
+        margin-top: 30%;
+    }
+}
+
+@media (max-width: 992px) {
+    .step-box{margin-bottom: 30px;}
+    .location span{text-align: center;}
+    .location:first-of-type{margin-bottom: 50px;}
+    .cover p {
+        margin-top: 30%;
+        font-size: 23px;
+        line-height: 30px;
+        padding: 20px 10px;
+    }
+}
+
+@media (max-width: 767px) {
+    .header.tiny .navbar-toggle {
+        margin-top: 8px;
+    }
+    nav.navbar{
+        width: 100%;
+    }
+    ul.menu li {
+        margin-bottom: 20px;
+    }
+    ul.menu li.active a{
+        border-bottom: transparent;
+    }
+    .navbar-collapse.in {
+        overflow-y: hidden !important;
+    }
+    .navbar-collapse{
+        text-align: center;
+        box-shadow: none;
+    }
+    .navbar-nav.menu{
+        width: 100%;
+        text-align: center;
+        margin-top: 0;
+    }
+    .navbar-toggle{
+        margin-top: 25px;
+        margin-right: 0;
+    }
+    .review-text{padding: 0;}
+    .photo-client{
+        width: 214px;
+        margin: 0 auto;
+    }
+    ul.menu li a:hover {
+        border-bottom: transparent;
+    }
+    .portfolio{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .work-box:hover .cover{
+        opacity: 0;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 500px){
+    footer .logo{
+        display: none;
+    }
+    .footer span{margin-top: 15px;}
+    a.carousel-control.left, a.carousel-control.right{opacity: 0;}
+}
