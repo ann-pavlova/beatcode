@@ -1,6 +1,8 @@
 # Beatcode
 Online demo: [website](http://ann-pavlova.github.io/beatcode)
 
+[![Beatcode](https://i.imgur.com/HnWNeeK.png)](http://ann-pavlova.github.io/beatcode)
+
 ## Features
 - Fully Responsive
 - Built With HTML5 and CSS3.
