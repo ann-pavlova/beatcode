@@ -1,5 +1,5 @@
 # Beatcode
-Демо: [website](http://ann-pavlova.github.io/beatcode)
+Демо: http://ann-pavlova.github.io/beatcode
 
 [![Beatcode](https://i.imgur.com/thL6k8D.png)](http://ann-pavlova.github.io/beatcode)
 
