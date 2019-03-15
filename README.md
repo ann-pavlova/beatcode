@@ -1,22 +1,20 @@
 # Beatcode
-Online demo: [website](http://ann-pavlova.github.io/beatcode)
+Демо: [website](http://ann-pavlova.github.io/beatcode)
 
 [![Beatcode](https://i.imgur.com/thL6k8D.png)](http://ann-pavlova.github.io/beatcode)
 
-## Features
-- Fully Responsive
-- Built With HTML5 and CSS3.
-- Bootstrap in Core
-- Valid HTML code
-- Clean Code
-- CSS3 Techniques
-- Responsive jQuery with touch swipe support
-- Cross Browser Support
+Сайт-шаблон для компании, которая занимается полным циклом разработки веб-сайтов и приложений. Сайт полностью адаптивен.
 
-### Features of .psd file
-- Modern Design
-- Clean, 100% editable PSD file
-- All layer labelled, well organised
-- All vector images in svg format
+Использован следующий стек технологий:
+- HTML5
+- CSS3
+- JQuery, JQuery-плагины
+- Bootstrap
+
+#### Особенности .psd файла
+- Современный дизайн
+- Легкоредактируемый PSD файл
+- Все слои именованные и грамотно структурированы
+- Все векторные изображения в формате svg
 
 
